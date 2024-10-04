@@ -7,3 +7,15 @@
 .team-card:hover {
     background-color: #cccaca;
 }
+
+.easteregg-hidden {
+    display: none;
+}
+
+footer:hover .easteregg-normal {
+    display: none;
+}
+
+footer:hover .easteregg-hidden {
+    display: block;
+}
