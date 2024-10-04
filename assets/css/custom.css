@@ -1,0 +1,9 @@
+.section-title p {
+    font-size: 1.3em;
+    color: #333;
+    margin-bottom: 0.5em;
+}
+
+.team-card:hover {
+    background-color: #cccaca;
+}
